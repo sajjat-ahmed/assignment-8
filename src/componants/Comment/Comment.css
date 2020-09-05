@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+}
+.img-container{
+    margin-top: 5px;
+    padding: 5px;
+}
+.comment-container{
+    background: lightskyblue;
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 2px;
+    border-radius: 12px;
+    margin-right: 150px;
+}
